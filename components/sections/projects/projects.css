@@ -1,0 +1,202 @@
+@media (min-width: 1173px ){
+  /* PROJECTS */
+  /* --------------------------------------------------------------------------------- */
+  .projects-section {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    color: var(--primary);
+    padding: 50px 90px 50px 90px;
+  }
+
+  .projects-title {
+    margin-bottom: 5px;
+  }
+
+  .projects-sub-title {
+    margin-bottom: 10px;
+  }
+
+  .projects-container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 25px 4%;
+    padding: 20px;
+    flex-wrap: wrap;
+  }
+}
+
+@media (min-width: 986px) and (max-width: 1172px) {
+  /* PROJECTS */
+  /* --------------------------------------------------------------------------------- */
+  .projects-section {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    color: var(--primary);
+    padding: 50px 90px 50px 90px;
+  }
+
+  .projects-title {
+    margin-bottom: 5px;
+  }
+
+  .projects-sub-title {
+    margin-bottom: 10px;
+  }
+
+  .projects-container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 25px 4%;
+    padding: 20px;
+    flex-wrap: wrap;
+  }
+}
+
+@media (min-width: 763px ) and (max-width: 985px) {
+  /* PROJECTS */
+  /* --------------------------------------------------------------------------------- */
+  .projects-section {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    color: var(--primary);
+    padding: 50px 90px 50px 90px;
+  }
+
+  .projects-title {
+    margin-bottom: 5px;
+  }
+
+  .projects-sub-title {
+    margin-bottom: 10px;
+  }
+
+  .projects-container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 25px 4%;
+    padding: 20px;
+    flex-wrap: wrap;
+  }
+}
+
+@media (min-width: 610px) and (max-width: 764px) {
+  /* PROJECTS */
+  /* --------------------------------------------------------------------------------- */
+  .projects-section {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    color: var(--primary);
+    padding: 50px 90px 50px 90px;
+  }
+
+  .projects-title {
+    margin-bottom: 5px;
+  }
+
+  .projects-sub-title {
+    margin-bottom: 10px;
+  }
+
+  .projects-container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 25px 4%;
+    padding: 20px;
+    flex-wrap: wrap;
+  }
+}
+
+@media  (min-width: 448px) and (max-width: 609px) {
+  /* PROJECTS */
+  /* --------------------------------------------------------------------------------- */
+  .projects-section {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    color: var(--primary);
+    padding: 30px 30px 40px 30px;
+  }
+
+  .projects-title {
+    margin-bottom: 5px;
+  }
+
+  .projects-sub-title {
+    margin-bottom: 10px;
+  }
+
+  .projects-container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 25px 4%;
+    padding: 20px;
+    flex-wrap: wrap;
+  }
+}
+
+@media (min-width: 388px) and (max-width: 447px) {
+  /* PROJECTS */
+  /* --------------------------------------------------------------------------------- */
+  .projects-section {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    color: var(--primary);
+    padding: 30px 30px 40px 30px;
+  }
+
+  .projects-title {
+    margin-bottom: 5px;
+  }
+
+  .projects-sub-title {
+    margin-bottom: 10px;
+  }
+
+  .projects-container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 25px 4%;
+    padding: 20px;
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 387px) {
+  /* PROJECTS */
+  /* --------------------------------------------------------------------------------- */
+  .projects-section {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    color: var(--primary);
+    padding: 30px 30px 40px 30px;
+  }
+
+  .projects-title {
+    margin-bottom: 5px;
+  }
+
+  .projects-sub-title {
+    margin-bottom: 10px;
+  }
+
+  .projects-container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 25px 4%;
+    padding: 20px;
+    flex-wrap: wrap;
+  }
+}
