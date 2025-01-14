@@ -2,7 +2,7 @@ import "./project.css"
 
 
 // ADD A NEW PROJECT FUNCTION
-export const addProject = (projectName, projectDescContent) => {
+export const addProject = (projectName, projectDescContent, url) => {
     document.addEventListener('DOMContentLoaded', () => {
       const projectsContainer = document.getElementsByClassName('projects-container')[0];
 
@@ -23,9 +23,10 @@ export const addProject = (projectName, projectDescContent) => {
       projectDesc.className = 'projects project-card-description'
       projectDesc.textContent = projectDescContent
 
-      const projectButton = document.createElement('button')
+      const projectButton = document.createElement('a')
       projectButton.className = 'projects project-card-button'
       projectButton.textContent = 'Ver Proyecto'
+      projectButton.href = url
 
       projectsContainer.appendChild(projectCard)
       projectCard.appendChild(profileImg)
