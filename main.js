@@ -221,7 +221,7 @@ projects()
 addProject('PComponentes', "El primer proyecto que hice para practicar el uso de html y css", "https://amcpcomponentesproject.netlify.app/")
 addProject('Tienda online JD', "Proyecto recreando la tienda online de la marca JD, hecha solo con html y css", "https://amcjdstoreproject.netlify.app/")
 addProject('Pinterest', "Proyecto recreando un web tipo pinterest, usando js por primera vez y api's para las imagenes", "https://amcpinterestproject.netlify.app/")
-addProject('Porfolio', "Este porfolio está hecho únicamente con js y css, sin escribir código html directamente","https://alexmelendezporfolio.netlify.app/")
+addProject('Porfolio', "Este porfolio está hecho únicamente con js y css, sin escribir código html directamente","https://alex-melendez-centeno-porfolio.netlify.app/")
 addProject('Games Hub', "Proyecto portal de juegos, con al menos tres sencillos juegos hechos con JavaScript", "https://amcgameshubproject.netlify.app/")
 
 
