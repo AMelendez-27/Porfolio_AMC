@@ -199,8 +199,8 @@ skillImg('Oracle DBA')
 // ----------------------------------------------------------------------------------
 // EXPERIENCE & STUDIES - SECTION
 // ADD EXPERIENCE
-addExperience("Systems Technician en Comsa 07/2021 - 09/2023", "Gestión del portal del empleado, y de las bases de datos de la empresa")
-addExperience("Superior Systems Technician (DBA) en Minsait 07/2021 - 09/2023", "Gestión y administración de bases de datos para entidades financieras")
+addExperience("Systems Technician en Comsa 07/2021 - 09/2023", "Prácticas atendiendo peticiones de soporte técnico a través de helpdesk además de modificar, optimizar, corregir y crear automatizaciones de procesos para mejorar el rendimiento de las bases de datos, y colaborar con la actualización y mejora de la página web de la empresa y portal del empleado.")
+addExperience("Superior Systems Technician (DBA) en Minsait 07/2021 - 09/2023", "Trabajando en la creación, actualización y corrección de las bases de datos además de la automatización de procesos de carga en numerosos proyectos para entidades financieras.<br>Control de errores y gestión de las bases de datos de desarrollo y de producción.")
 
 // ADD STUDIES
 addStudies("Pàlcam 09/2018 - 07/2020", "Ciclo de superior de administración de sistemas informáticos en red")
