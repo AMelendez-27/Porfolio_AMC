@@ -9,16 +9,13 @@ export const addLink = (linkNme) => {
       const linkButton = document.createElement('a')
       linkButton.className = `footer link-button`
       
-      function link (linkNme) {
-        const linkedin = "linkedin2";
-        const github = "github2";
-        if (linkNme === linkedin) {
-          linkButton.href = 'https://www.linkedin.com/in/%C3%A0lex-mel%C3%A9ndez-centeno-a76353337/'
-        }
-
-        if ( linkNme === github) {
-          linkButton.href = 'https://github.com/AMelendez-27'
-        }
+      const linkedin = "linkedin2";
+      const github = "github2";
+      if (linkNme === linkedin) {
+        linkButton.href = 'https://www.linkedin.com/in/%C3%A0lex-mel%C3%A9ndez-centeno-a76353337/'
+      }
+      if ( linkNme === github) {
+        linkButton.href = 'https://github.com/AMelendez-27'
       }
 
       const linkIcon = document.createElement('img')
