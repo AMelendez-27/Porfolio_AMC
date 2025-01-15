@@ -203,12 +203,14 @@ addExperience("Systems Technician en Comsa 07/2021 - 09/2023", "Prácticas atend
 addExperience("Superior Systems Technician (DBA) en Minsait 07/2021 - 09/2023", "Trabajando en la creación, actualización y corrección de las bases de datos además de la automatización de procesos de carga en numerosos proyectos para entidades financieras.\nControl de errores y gestión de las bases de datos de desarrollo y de producción.")
 
 // ADD STUDIES
+addStudies("ThePower Busines School 01/2024 - Cursando", "FullStack Developer")
+addStudies("ThePower Busines School 01/2024 - 01/2025", "JavaScript Developer")
 addStudies("Pàlcam 09/2018 - 07/2020", "Ciclo de superior de administración de sistemas informáticos en red")
 addStudies("Oracle Academy Online 09/2018 - 07/2020", "Database Design and Programming with SQL")
 addStudies("Oracle Academy Online 09/2018 - 07/2020", "Database Programming with PL/SQL")
 addStudies("Oracle Academy Online 09/2018 - 07/2020", "Java Programming")
-addStudies("ThePower Busines School 01/2024 - 01/2025", "JavaScript Developer")
-addStudies("ThePower Busines School 01/2024 - Cursando", "FullStack Developer")
+
+
 
 experienceStudies()
 
