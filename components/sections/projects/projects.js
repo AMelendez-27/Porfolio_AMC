@@ -14,7 +14,7 @@ export const projects = () => {
 
   const projectsSubTitle = document.createElement('p')
   projectsSubTitle.className = 'projects projects-sub-title'
-  projectsSubTitle.textContent = "Estos son algunos de mis últimos proyectos"
+  projectsSubTitle.textContent = "Estos son algunos de los proyectos que he ido haciendo en el máster que estoy cursando de Desarrollador FullStack, y gracias a los cuales he obtenido el primer certificado otorgado por el máster: JavaScript Developer."
 
   const projectsContainer = document.createElement('div')
   projectsContainer.className = 'projects projects-container'
