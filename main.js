@@ -191,9 +191,18 @@ skills()
 skillImg('HTML')
 skillImg('CSS')
 skillImg('JavaScript')
+skillImg('Java')
+skillImg('C#')
+skillImg('APIs')
 skillImg('Github')
+skillImg('Figma')
 skillImg('Visual Studio Code')
+skillImg('PL-SQL')
 skillImg('Oracle DBA')
+skillImg('IBM Tivoli Workload Scheduler')
+skillImg('PHP')
+skillImg('Microsoft Windows Server')
+skillImg('Linux Server')
 
 
 // ----------------------------------------------------------------------------------
