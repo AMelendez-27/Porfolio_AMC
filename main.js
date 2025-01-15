@@ -261,5 +261,5 @@ footer.appendChild(footerText)
 footer.appendChild(footerLinksContainer)
 
 // ADD LINKS
-addLink('linkedin2')
-addLink('github2')
+addLink('linkedin2', 'https://www.linkedin.com/in/%C3%A0lex-mel%C3%A9ndez-centeno-a76353337/')
+addLink('github2', 'https://github.com/AMelendez-27')
