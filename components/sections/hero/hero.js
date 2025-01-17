@@ -16,11 +16,11 @@ export const hero = () => {
 
   const h1Hero = document.createElement('h1')
   h1Hero.className = 'hero hero-h1'
-  h1Hero.textContent = 'Especializado en desarrollador web y Administración de bases de datos'
+  h1Hero.textContent = 'Especializado en desarrollador web y administración de bases de datos'
 
   const h2Hero = document.createElement('h2')
   h2Hero.className = 'hero hero-h2'
-  h2Hero.textContent = 'Para mí, ser desarrollador web no es solo un trabajo, sino también un hobby'
+  h2Hero.textContent = 'Para mí, no es solo un trabajo, sino también un hobby'
 
   const heroImgContainer = document.createElement('div')
   heroImgContainer.className = 'hero hero-img-container'
