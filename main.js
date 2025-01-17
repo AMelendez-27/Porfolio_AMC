@@ -65,12 +65,19 @@ const aProjects = document.createElement('a')
 aProjects.href = '#projects'
 aProjects.textContent = 'Proyectos'
 
-const aContact = document.createElement('a')
+/* const aContact = document.createElement('a')
 aContact.href = '#contact'
 
 const pContact = document.createElement('p')
 pContact.className = 'header-contact'
-pContact.textContent = 'Contacto'
+pContact.textContent = 'Contacto' */
+
+const aContact = document.createElement('a')
+aContact.href = 'https://www.linkedin.com/in/%C3%A0lex-mel%C3%A9ndez-centeno-a76353337/'
+
+const pContact = document.createElement('p')
+pContact.className = 'header-contact'
+pContact.textContent = 'Linkedin'
 
 // GENERATE HTML
 header.appendChild(navMenu)
@@ -86,7 +93,7 @@ liExperienceAndStudies.appendChild(aExperienceAndStudies)
 ulMainMenu.appendChild(liProjects)
 liProjects.appendChild(aProjects)
 header.appendChild(aContact)
-aContact.appendChild(pContact)
+aContact.appendChild(pContact) 
 
 // HEADER - SMALL SCREEN MENU - MOBILE MENU
 const compactMenu = document.createElement('div')
@@ -141,9 +148,13 @@ aMobileProjects.textContent = 'Proyectos'
 const liMobileContact = document.createElement('li')
 liMobileContact.className = 'header li-mobile-menu'
 
-const aMobileContact = document.createElement('a')
+/* const aMobileContact = document.createElement('a')
 aMobileContact.href = '#contact'
-aMobileContact.textContent = 'Contacto'
+aMobileContact.textContent = 'Contacto' */
+
+const aMobileContact = document.createElement('a')
+aMobileContact.href = 'https://www.linkedin.com/in/%C3%A0lex-mel%C3%A9ndez-centeno-a76353337/'
+aMobileContact.textContent = 'Linkedin'
 
 // MOBILE MENU
 header.appendChild(compactMenu)
@@ -161,7 +172,7 @@ liMobileExperienceAndStudies.appendChild(aMobileExperienceAndStudies)
 ulMobileMenu.appendChild(liMobileProjects)
 liMobileProjects.appendChild(aMobileProjects)
 ulMobileMenu.appendChild(liMobileContact)
-liMobileContact.appendChild(aMobileContact)
+liMobileContact.appendChild(aMobileContact) 
 
 // TOGGLE MOBILE MENU
 cMenuIcon.addEventListener('click', () => {
