@@ -210,7 +210,7 @@ skillImg('Linux Server')
 // ----------------------------------------------------------------------------------
 // EXPERIENCE & STUDIES - SECTION
 // ADD EXPERIENCE
-addExperience("Superior Systems Technician (DBA) en Minsait 07/2021 - 09/2024", "Trabajando en la creación, actualización y corrección de las bases de datos además de la automatización de procesos de carga en numerosos proyectos para entidades financieras.\nControl de errores y gestión de las bases de datos de desarrollo y de producción.")
+addExperience("Superior Systems Technician (DBA - Data Analytics) en Minsait 07/2021 - 09/2024", "Trabajando en la creación, actualización y corrección de las bases de datos además de la automatización de procesos de carga en numerosos proyectos para entidades financieras.\nControl de errores y gestión de las bases de datos de desarrollo y de producción.\nAdemás, realicé labores de análisis de datos, transformación y volcado de datos, tanto en servidores de desarrollo como en servidores de producción.")
 
 addExperience("Systems Technician en Comsa 07/2019 - 09/2020", "Prácticas atendiendo peticiones de soporte técnico a través de helpdesk además de modificar, optimizar, corregir y crear automatizaciones de procesos para mejorar el rendimiento de las bases de datos, y colaborar con la actualización y mejora de la página web de la empresa y portal del empleado.")
 
