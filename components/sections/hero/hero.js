@@ -16,7 +16,7 @@ export const hero = () => {
 
   const h1Hero = document.createElement('h1')
   h1Hero.className = 'hero hero-h1'
-  h1Hero.textContent = 'Especializado en desarrollador web y administración de bases de datos'
+  h1Hero.textContent = 'Especializado en Desarrollo Web y Administración de Bases de Datos'
 
   const h2Hero = document.createElement('h2')
   h2Hero.className = 'hero hero-h2'
