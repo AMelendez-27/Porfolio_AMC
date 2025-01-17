@@ -242,7 +242,7 @@ addProject('Games Hub', "Proyecto portal de juegos, con al menos tres sencillos 
 
 // ----------------------------------------------------------------------------------
 // CONTACT FORM - SECTION
-contact()
+//contact()
 
 
 // ----------------------------------------------------------------------------------
