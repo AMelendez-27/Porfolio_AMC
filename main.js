@@ -250,7 +250,7 @@ addProject('Tienda online JD', "Proyecto recreando la tienda online de la marca 
 addProject('Pinterest', "Proyecto recreando un web tipo pinterest, usando js por primera vez y api's para las imagenes", "https://amc-pinterest-project.netlify.app/")
 addProject('Porfolio', "Este porfolio está hecho únicamente con js y css, sin escribir código html directamente","https://alex-melendez-centeno-porfolio.netlify.app/")
 addProject('Games Hub', "Proyecto portal de juegos, con al menos tres sencillos juegos hechos con JavaScript", "https://amc-games-hub-project.netlify.app/")
-addProject('TCG Library', 'Mi primer proyecto con React, usando el react router, "useState", "useEffect", etc. Además de la conexion con la API de TCG para las imagenes y datos', "https://amc-tcg-library-project.netlify.app/")
+addProject('TCG Library', 'Primer proyecto con React, usando el router, "useState", "useEffect", etc. Además de la conexión con la API de TCG para las imágenes y datos', "https://amc-tcg-library-project.netlify.app/")
 
 
 // ----------------------------------------------------------------------------------
