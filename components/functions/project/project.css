@@ -49,12 +49,14 @@
 .project-card:hover {
   outline: none; 
   border-color: #000000; 
-  box-shadow: 0 0 17px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+  transition: box-shadow 0.3s;
 }
 
 .project-card-button:hover {
   outline: none; 
   border-color: #000000; 
-  box-shadow: 0 0 17px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 17px rgba(0, 0, 0, 0.664);
+  transition: box-shadow 0.2s;
 }
 
