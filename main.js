@@ -201,13 +201,15 @@ skills()
 // ADD SKILLS IMGS
 skillImg('HTML')
 skillImg('CSS')
-skillImg('JavaScript')
+skillImg('Javascript')
+skillImg('Typescript')
+skillImg('SASS')
 skillImg('Java')
 skillImg("Csharp")
 skillImg('React')
 skillImg("MongoDB")
 skillImg("Node.js")
-skillImg('APIs')
+skillImg('API REST')
 skillImg('Github')
 skillImg('Figma')
 skillImg('Visual Studio Code')
@@ -222,13 +224,14 @@ skillImg('Linux Server')
 // ----------------------------------------------------------------------------------
 // EXPERIENCE & STUDIES - SECTION
 // ADD EXPERIENCE
-addExperience("Superior Systems Technician (DBA - Data Analytics) en Minsait 07/2021 - 09/2024", "Trabajando en la creación, actualización y corrección de las bases de datos además de la automatización de procesos de carga en numerosos proyectos para entidades financieras.\nControl de errores y gestión de las bases de datos de desarrollo y de producción.\nAdemás, realicé labores de análisis de datos, transformación y volcado de datos, tanto en servidores de desarrollo como en servidores de producción.")
+addExperience("Superior Systems Technician (DBA | Data Engineer | DataOps | Data Analyst)", "Minsait - Indra Sistemas, S.A. (07/2021 - 09/2024)", "Superior System Techncian en Minsait, ejerciendo labores similares a Database Administrator, Data Engineer, DataOps o Data Analysts. <br><br>Trabajando en la creación, actualización y corrección de las bases de datos, además de la automatización de procesos de carga en numerosos proyectos para una de las entidades financieras más importante del mercado.<br><br>En mi paso por Minsait conseguí experiencía real en entornos agile/scrum, trabajando en proyectos por sprints y haciendo uso de Jira para planificación y seguimiento de tareas. Tambíen aprendí a formar parte del ciclo de CI/CD gestionando la automatización de pruebas en entornos de desarrollo, corrección de errores y con uso de pipelines de integración y despliegue en el entorno de producción. Además, en mi día a día realizaba labores de análisis, transformación y volcado de datos, tanto en servidores de desarrollo como en servidores de producción.")
 
-addExperience("Systems Technician en Comsa 07/2019 - 09/2020", "Prácticas atendiendo peticiones de soporte técnico a través de helpdesk además de modificar, optimizar, corregir y crear automatizaciones de procesos para mejorar el rendimiento de las bases de datos, y colaborar con la actualización y mejora de la página web de la empresa y portal del empleado.")
+addExperience("Superior Systems Technician", "Comsa, S.A.U. – Comsa Corporación 07/2019 - 09/2020", "Prácticas atendiendo peticiones de soporte técnico a través de helpdesk, solucionando incidencias de hardware y sobre todo software. Además de modificar, optimizar, corregir y crear automatizaciones de procesos para mejorar el rendimiento de las bases de datos de la empresa.<br><br>También tuve la oportunidad de colaborar con la actualización y mejora de la página web de la empresa y portal del empleado.")
 
 
 // ADD STUDIES
 addStudies("ThePower Busines School 01/2024 - Cursando", "FullStack Developer")
+addStudies("ThePower Busines School 01/2024 - 04/2025", "Frontend Developer")
 addStudies("ThePower Busines School 01/2024 - 01/2025", "JavaScript Developer")
 addStudies("Jesuïtes El Clot 09/2020 - 07/2021", "Ciclo de superior de desarrollo de aplicaciones multiplataforma")
 addStudies("Pàlcam 09/2018 - 07/2020", "Ciclo de superior de administración de sistemas informáticos en red")

@@ -4,6 +4,7 @@
     align-items: center;
     justify-content: center;
     margin-bottom: 20px;
+    margin-top: 30px;
   }
   
   .studies-container {
@@ -12,9 +13,18 @@
     align-items: center;
     justify-content: center;
     margin-bottom: 20px;
+    margin-top: 10px;
   }
   
   .e-s-content {
-    margin-top: 10px;
     text-align: center;
+  }
+  
+  .experience-sub-title {
+    font-style: italic;
+    margin-bottom: 20px;
+  }
+
+  .studies-title {
+    font-style: italic;
   }

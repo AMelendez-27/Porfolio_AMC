@@ -2,7 +2,7 @@ import "./experience_studies.css";
 
 
 // ADD NEW EXPERIENCE FUNCTION
-export const addExperience = (experience, experienceDescription) => {
+export const addExperience = (title, subtitle, experienceDescription) => {
   document.addEventListener('DOMContentLoaded', () => {
     const expStuSection = document.getElementsByClassName('e-s-container')[0];
 
@@ -12,20 +12,25 @@ export const addExperience = (experience, experienceDescription) => {
 
     const experienceTitle = document.createElement('h3')
     experienceTitle.className = 'e-s e-s-content experience experience-title'
-    experienceTitle.textContent = experience
+    experienceTitle.innerHTML = title
+
+    const experienceSubTitle = document.createElement('h3')
+    experienceSubTitle.className = 'e-s e-s-content experience experience-sub-title'
+    experienceSubTitle.innerHTML = subtitle
 
     const experienceDesc = document.createElement('p')
     experienceDesc.className = 'e-s e-s-content experience experience-description'
-    experienceDesc.textContent = experienceDescription
+    experienceDesc.innerHTML = experienceDescription
 
     expStuSection.appendChild(experienceDiv)
     experienceDiv.appendChild(experienceTitle)
+    experienceDiv.appendChild(experienceSubTitle)
     experienceDiv.appendChild(experienceDesc)
   })
 }
 
 // ADD NEW STUDIES FUNCTION
-export const addStudies = (studies, studiesDescription) => {
+export const addStudies = (title, studiesDescription) => {
   document.addEventListener('DOMContentLoaded', () => {
     const expStuSection = document.getElementsByClassName('e-s-container')[0];
 
@@ -35,11 +40,11 @@ export const addStudies = (studies, studiesDescription) => {
 
     const experienceTitle = document.createElement('h3')
     experienceTitle.className = 'e-s e-s-content studies studies-title'
-    experienceTitle.textContent = studies
+    experienceTitle.innerHTML = title
 
     const experienceDesc = document.createElement('p')
     experienceDesc.className = 'e-s e-s-content studies studies-description'
-    experienceDesc.textContent = studiesDescription
+    experienceDesc.innerHTML = studiesDescription
 
     expStuSection.appendChild(studiesDiv)
     studiesDiv.appendChild(experienceTitle)
