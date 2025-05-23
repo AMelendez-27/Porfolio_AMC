@@ -230,10 +230,12 @@ addExperience("Systems Technician en Comsa 07/2019 - 09/2020", "Prácticas atend
 // ADD STUDIES
 addStudies("ThePower Busines School 01/2024 - Cursando", "FullStack Developer")
 addStudies("ThePower Busines School 01/2024 - 01/2025", "JavaScript Developer")
+addStudies("Jesuïtes El Clot 09/2020 - 07/2021", "Ciclo de superior de desarrollo de aplicaciones multiplataforma")
 addStudies("Pàlcam 09/2018 - 07/2020", "Ciclo de superior de administración de sistemas informáticos en red")
 addStudies("Oracle Academy Online 09/2018 - 07/2020", "Database Design and Programming with SQL")
 addStudies("Oracle Academy Online 09/2018 - 07/2020", "Database Programming with PL/SQL")
 addStudies("Oracle Academy Online 09/2018 - 07/2020", "Java Programming")
+
 
 
 

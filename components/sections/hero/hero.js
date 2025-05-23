@@ -22,6 +22,10 @@ export const hero = () => {
   h2Hero.className = 'hero hero-h2'
   h2Hero.textContent = 'Para mí, no es solo un trabajo, sino también un hobby'
 
+  const h3Hero = document.createElement('h3')
+  h3Hero.className = 'hero hero-h3'
+  h3Hero.textContent = 'Este porfolio es uno de los primeros proyectos que he realizado para el máster de Desarrollo Full Stack de thePower, gracias al cual he obtenido el titulo de desarrollador javascript por haberlo realizado unicamente con css y javascript puro.'
+
   const heroImgContainer = document.createElement('div')
   heroImgContainer.className = 'hero hero-img-container'
 
@@ -35,6 +39,7 @@ export const hero = () => {
   heroTopContainer.appendChild(heroTitleContainer)
   heroTitleContainer.appendChild(h1Hero)
   heroTitleContainer.appendChild(h2Hero)
+  heroTitleContainer.appendChild(h3Hero)
   heroTopContainer.appendChild(heroImgContainer)
   heroImgContainer.appendChild(heroImg)
 
