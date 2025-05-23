@@ -230,9 +230,9 @@ addExperience("Superior Systems Technician", "Comsa, S.A.U. – Comsa Corporaci�
 
 
 // ADD STUDIES
-addStudies("ThePower Busines School 01/2024 - Cursando", "FullStack Developer")
-addStudies("ThePower Busines School 01/2024 - 04/2025", "Frontend Developer")
-addStudies("ThePower Busines School 01/2024 - 01/2025", "JavaScript Developer")
+addStudies("ThePower Busines School 10/2024 - Cursando", "FullStack Developer")
+addStudies("ThePower Busines School 10/2024 - 04/2025", "Frontend Developer")
+addStudies("ThePower Busines School 10/2024 - 01/2025", "JavaScript Developer")
 addStudies("Jesuïtes El Clot 09/2020 - 07/2021", "Ciclo de superior de desarrollo de aplicaciones multiplataforma")
 addStudies("Pàlcam 09/2018 - 07/2020", "Ciclo de superior de administración de sistemas informáticos en red")
 addStudies("Oracle Academy Online 09/2018 - 07/2020", "Database Design and Programming with SQL")
@@ -271,7 +271,7 @@ document.body.appendChild(footer)
 
 const footerText = document.createElement('p')
 footerText.className = 'footer footer-text'
-footerText.innerHTML = 'Diseñado por <span class="footer-span">Àlex Meléndez Centeno</span>'
+footerText.innerHTML = 'Diseñado y creado por <span class="footer-span">Àlex Meléndez Centeno</span>'
 
 const footerLinksContainer = document.createElement('div')
 footerLinksContainer.className = 'footer footer-links-container'

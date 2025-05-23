@@ -24,7 +24,7 @@ export const hero = () => {
 
   const h3Hero = document.createElement('h3')
   h3Hero.className = 'hero hero-h3'
-  h3Hero.textContent = 'Este porfolio es uno de los primeros proyectos que he realizado para el máster de Desarrollo Full Stack de thePower, gracias al cual he obtenido el titulo de desarrollador javascript por haberlo realizado unicamente con css y javascript puro.'
+  h3Hero.innerHTML = 'Este porfolio es uno de los primeros proyectos que he realizado para el máster de Desarrollo Full Stack de thePower. Gracias a este proyecto obtuve el título de desarrollador javascript por haberlo realizado únicamente con CSS y Javascript puro.<br>Además, más tarde obtendría también el título de desarrollador frontend gracias a otros proyectos también recopilados en este porfolio.'
 
   const heroImgContainer = document.createElement('div')
   heroImgContainer.className = 'hero hero-img-container'
