@@ -260,7 +260,10 @@ addProject('Pinterest', "Proyecto recreando un web tipo pinterest, usando js por
 addProject('Porfolio', "Este porfolio está hecho únicamente con js y css, sin escribir código html directamente","https://alex-melendez-centeno-porfolio.netlify.app/")
 addProject('Games Hub', "Proyecto portal de juegos, con al menos tres sencillos juegos hechos con JavaScript", "https://amc-games-hub-project.netlify.app/")
 addProject('TCG Library', 'Mi primer proyecto con React, usando router, "useState", "useEffect", etc. Además de la conexión con la API de TCG para las imágenes y datos', "https://amc-tcg-library-project.netlify.app/")
-addProject('API REST + MongoDB', 'Mi primer proyecto de backend, creando mi primera API con "Node.js", "Express.js" y "MongoDB"', "https://amc-tcg-library-project.netlify.app/")
+addProject('API REST + MongoDB', 'Mi primer proyecto de backend, creando mi primera API con "Node.js", "Express.js" y "MongoDB"', "https://github.com/AMelendez-27/Proyecto_6_API_REST")
+addProject('API REST Authentication + Encriptation', 'Proyecto de backend, esta vez trabajando con roles de usuario, "JsonWebToken", "Middlewares" y "Bcrypt" para la encriptación de contraseñas y autentificaciones', "https://github.com/AMelendez-27/PROYECTO_7_API_REST_AUTH")
+addProject('API REST Files Management', 'Proyecto también para la certificación de "Backend Developer", demostrando mis conocimientos con la subida y gestión de archivos con Cloudinary', "https://github.com/AMelendez-27/PROYECTO_8_API_REST_FILES")
+
 
 
 // ----------------------------------------------------------------------------------
