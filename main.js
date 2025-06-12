@@ -254,15 +254,15 @@ experienceStudies()
 projects()
 
 // ADD PROJECTS
-addProject('PComponentes', "El primer proyecto que hice para practicar el uso de html y css", "https://amc-pcomponentes-project.netlify.app/")
-addProject('Tienda online JD', "Proyecto recreando la tienda online de la marca JD, hecha solo con html y css", "https://amc-jd-store-project.netlify.app/")
-addProject('Pinterest', "Proyecto recreando un web tipo pinterest, usando js por primera vez y api's para las imagenes", "https://amc-pinterest-project.netlify.app/")
-addProject('Porfolio', "Este porfolio está hecho únicamente con js y css, sin escribir código html directamente","https://alex-melendez-centeno-porfolio.netlify.app/")
-addProject('Games Hub', "Proyecto portal de juegos, con al menos tres sencillos juegos hechos con JavaScript", "https://amc-games-hub-project.netlify.app/")
+addProject('PComponentes', "Primer proyecto de mi formación, practicando el correcto uso de las etiquetas para un mejor SEO y manteniendo buenas prácticas de estructura con HTML y CSS", "https://amc-pcomponentes-project.netlify.app/")
+addProject('Tienda online JD', "Uno de mis primeros proyectos, en este caso recreando la tienda online de una marca de zapatillas, solo con HTML y CSS", "https://amc-jd-store-project.netlify.app/")
+addProject('Pinterest', "Proyecto recreando una web tipo Pinterest, usando JavaScript por primera vez y haciendo uso una API para las imágenes de la página principal y el buscador de imágenes", "https://amc-pinterest-project.netlify.app/")
+addProject('Porfolio', "Este porfolio es otro proyecto hecho para obtener el primer certificado de mi formación. Este proyecto consistía en hacer un porfolio sin hacer uso de HTML, solo con JavaScript y CSS","https://alex-melendez-centeno-porfolio.netlify.app/")
+addProject('Games Hub', "La idea de este proyecto era desarrollar una web tipo SPA, donde se muestran tres juegos que tuvieran por detrás una parte lógica con cierta complejidad hecha con JavaScript", "https://amc-games-hub-project.netlify.app/")
 addProject('TCG Library', 'Mi primer proyecto con React, usando router, "useState", "useEffect", etc. Además de la conexión con la API de TCG para las imágenes y datos', "https://amc-tcg-library-project.netlify.app/")
 addProject('API REST + MongoDB', 'Mi primer proyecto de backend, creando mi primera API con "Node.js", "Express.js" y "MongoDB"', "https://github.com/AMelendez-27/Proyecto_6_API_REST")
-/*addProject('API REST Auth', 'Proyecto backend, trabajando con roles de usuario, "JsonWebToken", "Bcrypt" y "Middlewares"para encriptaciones y autentificaciones', "https://github.com/AMelendez-27/PROYECTO_7_API_REST_AUTH")
-addProject('API REST Files', 'Proyecto para el certificado de "Backend Developer", aplicando mis conocimientos con la subida y gestión de archivos con Cloudinary', "https://github.com/AMelendez-27/PROYECTO_8_API_REST_FILES")*/
+addProject('API REST Auth', 'Proyecto backend, trabajando con roles de usuario, "JsonWebToken", "Bcrypt" y "Middlewares"para encriptaciones y autentificaciones', "https://github.com/AMelendez-27/PROYECTO_7_API_REST_AUTH")
+addProject('API REST Files', 'Proyecto para el certificado de "Backend Developer", aplicando mis conocimientos con la subida y gestión de archivos con Cloudinary', "https://github.com/AMelendez-27/PROYECTO_8_API_REST_FILES")
 
 
 
