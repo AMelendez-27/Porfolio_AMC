@@ -260,7 +260,7 @@ addProject('Pinterest', "Proyecto recreando un web tipo pinterest, usando js por
 addProject('Porfolio', "Este porfolio está hecho únicamente con js y css, sin escribir código html directamente","https://alex-melendez-centeno-porfolio.netlify.app/")
 addProject('Games Hub', "Proyecto portal de juegos, con al menos tres sencillos juegos hechos con JavaScript", "https://amc-games-hub-project.netlify.app/")
 addProject('TCG Library', 'Mi primer proyecto con React, usando router, "useState", "useEffect", etc. Además de la conexión con la API de TCG para las imágenes y datos', "https://amc-tcg-library-project.netlify.app/")
-addProject('Github_Project_Icon', 'Mi primer proyecto con React, usando router, "useState", "useEffect", etc. Además de la conexión con la API de TCG para las imágenes y datos', "https://amc-tcg-library-project.netlify.app/")
+addProject('API REST + MongoDB', 'Mi primer proyecto de backend, creando mi primera API con "Node.js", "Express.js" y "MongoDB"', "https://amc-tcg-library-project.netlify.app/")
 
 
 // ----------------------------------------------------------------------------------
