@@ -14,7 +14,7 @@ export const projects = () => {
 
   const projectsSubTitle = document.createElement('p')
   projectsSubTitle.className = 'projects projects-sub-title'
-  projectsSubTitle.textContent = "Estos son algunos de los proyectos que he ido haciendo en el máster que estoy cursando de Desarrollador FullStack, y gracias a los cuales he obtenido el primer certificado otorgado por el máster: JavaScript Developer."
+  projectsSubTitle.textContent = 'Estos son algunos de los proyectos que he realizado para el máster de Desarrollo Full Stack de thePower, gracias a los cuales he obtenido certificaciones como "Desarrollador Javascript", "Desarrollador Frontend" y "Desarrollador Backend".'
 
   const projectsContainer = document.createElement('div')
   projectsContainer.className = 'projects projects-container'
