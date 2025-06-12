@@ -16,7 +16,7 @@
   height: 214px;
   border-radius: 15px;
   background-color: white;
-  object-fit: fill;
+  object-fit: cover;
 }
 
 .project-card-title {

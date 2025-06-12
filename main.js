@@ -259,10 +259,10 @@ addProject('Tienda online JD', "Uno de mis primeros proyectos, en este caso recr
 addProject('Pinterest', "Proyecto recreando una web tipo Pinterest, usando JavaScript por primera vez y haciendo uso una API para las imágenes de la página principal y el buscador de imágenes", "https://amc-pinterest-project.netlify.app/")
 addProject('Porfolio', "Este porfolio es otro proyecto hecho para obtener el primer certificado de mi formación. Este proyecto consistía en hacer un porfolio sin hacer uso de HTML, solo con JavaScript y CSS","https://alex-melendez-centeno-porfolio.netlify.app/")
 addProject('Games Hub', "La idea de este proyecto era desarrollar una web tipo SPA, donde se muestran tres juegos que tuvieran por detrás una parte lógica con cierta complejidad hecha con JavaScript", "https://amc-games-hub-project.netlify.app/")
-addProject('TCG Library', 'Mi primer proyecto con React, usando router, "useState", "useEffect", etc. Además de la conexión con la API de TCG para las imágenes y datos', "https://amc-tcg-library-project.netlify.app/")
-addProject('API REST + MongoDB', 'Mi primer proyecto de backend, creando mi primera API con "Node.js", "Express.js" y "MongoDB"', "https://github.com/AMelendez-27/Proyecto_6_API_REST")
-addProject('API REST Auth', 'Proyecto backend, trabajando con roles de usuario, "JsonWebToken", "Bcrypt" y "Middlewares"para encriptaciones y autentificaciones', "https://github.com/AMelendez-27/PROYECTO_7_API_REST_AUTH")
-addProject('API REST Files', 'Proyecto para el certificado de "Backend Developer", aplicando mis conocimientos con la subida y gestión de archivos con Cloudinary', "https://github.com/AMelendez-27/PROYECTO_8_API_REST_FILES")
+addProject('TCG Library', 'Primer proyecto con React, usando "React Router", "useState", "useEffect", etc. Además de la conexión con la API de TCG para la obtención de las colecciones, imágenes y datos de cada una de cartas', "https://amc-tcg-library-project.netlify.app/")
+addProject('API REST + MongoDB', 'Mi primer proyecto para la certificación de "Desarrollador Backend", creando mi primera API con Node.js, haciendo uso de Express.js para la conexión y MongoDB para la base de datos', "https://github.com/AMelendez-27/Proyecto_6_API_REST")
+addProject('API REST Auth', "Proyecto de backend, gestionando roles de usuario y simulando registros y login's los mismos. Además de usar JsonWebToken, Bcrypt y Middlewares para encriptaciones y autentificaciones", "https://github.com/AMelendez-27/PROYECTO_7_API_REST_AUTH")
+addProject('API REST Files', 'Proyecto para aplicar los conocimientos adquiridos en el máster sobre carga y gestión de archivos con el servicio cloud Cloudinary', "https://github.com/AMelendez-27/PROYECTO_8_API_REST_FILES")
 
 
 
