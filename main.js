@@ -263,6 +263,7 @@ addProject('TCG Library', 'Primer proyecto con React, usando "React Router", "us
 addProject('API REST + MongoDB', 'Mi primer proyecto para la certificación de "Desarrollador Backend", creando mi primera API con Node.js, haciendo uso de Express.js para la conexión y MongoDB para la base de datos', "https://github.com/AMelendez-27/Proyecto_6_API_REST")
 addProject('API REST Auth', "Proyecto de backend, gestionando roles de usuario y simulando registros y login's los mismos. Además de usar JsonWebToken, Bcrypt y Middlewares para encriptaciones y autentificaciones", "https://github.com/AMelendez-27/PROYECTO_7_API_REST_AUTH")
 addProject('API REST Files', 'Proyecto para aplicar los conocimientos adquiridos en el máster sobre carga y gestión de archivos con el servicio cloud Cloudinary', "https://github.com/AMelendez-27/PROYECTO_8_API_REST_FILES")
+addProject('Web Scrapping', 'Último proyecto para la obtención del título de "Backend Developer". Este scraper avanza por todas las páginas disponibles, recogiendo datos de todos los productos en venta.', "https://github.com/AMelendez-27/PROYECTO_9_WEB_SCRAPPING")
 
 
 
